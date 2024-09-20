@@ -10,6 +10,8 @@ This is a repo for Ginco-One-Platform-Sample.
 
       [Ginco One Platform Site](https://console.cloud.ginco.com/nodes/api)
 
+      ![](./docs/api.png)
+
   2.  You need to create `.env` file & fillout these values
 
       ```txt
@@ -53,6 +55,18 @@ This is a repo for Ginco-One-Platform-Sample.
 
     ```bash
     yarn getBalance --network holesky
+    ```
+
+  - **callReadMethod**
+
+    ```bash
+    yarn callReadMethod --network holesky
+    ```
+
+  - **calWriteMethod**
+
+    ```bash
+    yarn callWriteMethod --network holesky
     ```
 
 ### 参考文献
