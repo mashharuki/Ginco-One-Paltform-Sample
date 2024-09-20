@@ -9,6 +9,7 @@
     "clean": "npx hardhat clean",
     "compile": "npx hardhat compile",
     "test": "npx hardhat test",
+    "coverage": "SOLIDITY_COVERAGE=true npx hardhat coverage",
     "deploy:Lock": "npx hardhat ignition deploy ./ignition/modules/Lock.ts",
     "local": "npx hardhat node",
     "getBalance": "npx hardhat getBalance",
