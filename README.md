@@ -2,6 +2,8 @@
 
 This is a repo for Ginco-One-Platform-Sample.
 
+[![Build and Test SmartContract on GitHub Actions](https://github.com/mashharuki/Ginco-One-Platform-Sample/actions/workflows/ci.yml/badge.svg)](https://github.com/mashharuki/Ginco-One-Platform-Sample/actions/workflows/ci.yml)
+
 ## How to work
 
 - ### **setUp**
