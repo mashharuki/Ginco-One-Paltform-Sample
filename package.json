@@ -5,6 +5,9 @@
   "repository": "https://github.com/mashharuki/Ginco-One-Paltform-Sample.git",
   "author": "Haruki Kondo",
   "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "clean": "npx hardhat clean",
     "compile": "npx hardhat compile",
